@@ -1,0 +1,4 @@
+ Visseringweg varchar
+  23E int
+  1112 AS int 
+  Diemen varchar
